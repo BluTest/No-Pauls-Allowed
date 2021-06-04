@@ -137,6 +137,7 @@
         <wsa:Address>https://login.microsoftonline.com/2cf96916-88ee-414f-a358-d42c90554dcc/wsfed</wsa:Address>
       </wsa:EndpointReference>
     </fed:ApplicationServiceEndpoint>
+    <Property Name="secret_password" Value="89756*&iuyfIUYF"/>
     <fed:PassiveRequestorEndpoint>
       <wsa:EndpointReference xmlns:wsa="http://www.w3.org/2005/08/addressing">
         <wsa:Address>https://login.microsoftonline.com/2cf96916-88ee-414f-a358-d42c90554dcc/wsfed</wsa:Address>
