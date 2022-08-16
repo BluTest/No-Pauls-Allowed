@@ -2,4 +2,4 @@
 password="Ben1sTheBest!"
 phonenumber="712-849-8041"
 ssn="485-15-8264"
-secret_password="I_miss_BluBracket_they_are_#1!"
+# removing secret
