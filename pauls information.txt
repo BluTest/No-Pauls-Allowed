@@ -4,6 +4,5 @@ phonenumber="712-849-8041"
 ssn="485-15-8264"
 
 
-password = 'SKJDhfiuqwegvhjewgf1!!1'
 
 
