@@ -8,3 +8,5 @@ more_password = "9875(*&%^ouiygluikoyluiyIUOYG"
 
 secret_password = "jUgaZPjSu2-van8Q4RLI"
 password
+
+7_char_password = "8*a)P3!"
